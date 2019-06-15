@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 061645cf2922dbe4a8cb8a40325e15fd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scriptina
+  fontNames:
+  - Scriptina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e06ddba9a79bc564c970ccb36f89cad6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
